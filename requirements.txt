@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+streamlit
+pydantic
+python-dotenv
+requests
+huggingface-hub
+transformers
+torch
+accelerate
